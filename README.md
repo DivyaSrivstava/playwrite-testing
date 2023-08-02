@@ -1,1 +1,3 @@
-# playwrite-testing
+# playwright-testing
+extension: BlazeMeter
+
